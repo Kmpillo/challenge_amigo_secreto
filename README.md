@@ -70,7 +70,5 @@ Si deseas mejorar el proyecto:
 Este proyecto está bajo la licencia MIT.
 Puedes usarlo y modificarlo libremente, siempre dando el crédito correspondiente.
 
-Autor: Sindy Campillo Buitrago
-
-Fecha: Agosto 2025
+Sindy Campillo Buitrago - Agosto 2025
 
