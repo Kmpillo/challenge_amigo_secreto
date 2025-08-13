@@ -47,22 +47,26 @@ Abre el archivo index.html en tu navegador.
 - Haz clic en Añadir para sumarlos a la lista.
 - Presiona Sortear amigo para iniciar el juego.
 
-Dependencias
+# Dependencias
+
 Este proyecto no requiere instalación de librerías externas.
 Solo necesitas un navegador web moderno para ejecutarlo.
 
-Posibles problemas y soluciones
+# Posibles problemas y soluciones
+
 - El sorteo repite nombres → Revisa la lógica en app.js para asegurarte de que se elimine el nombre ya sorteado.
 - La imagen no carga → Verifica que la ruta en index.html coincida con la ubicación real del archivo en assets/.
 
-Contribuciones
+# Contribuciones
+
 Si deseas mejorar el proyecto:
 1. Haz un fork del repositorio.
 2. Crea una rama (feature/nueva-funcionalidad).
 3. Haz un commit con tus cambios.
 4. Envía un pull request.
 
-Licencia
+# Licencia
+
 Este proyecto está bajo la licencia MIT.
 Puedes usarlo y modificarlo libremente, siempre dando el crédito correspondiente.
 
