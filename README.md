@@ -26,11 +26,11 @@ Ideal para organizar de forma divertida intercambios de regalos o actividades si
 ## Estructura del proyecto
 
 amigo-secreto
-├── 📄 index.html # Estructura principal
-├── 🎨 style.css # Estilos y diseño visual
-├── ⚙️ app.js # Lógica del juego
-├── 📁 assets/ # Imágenes e íconos
-└── 📄 README.md # Documentación
+- index.html # Estructura principal
+- style.css # Estilos y diseño visual
+- app.js # Lógica del juego
+- assets/ # Imágenes e íconos
+- README.md # Documentación
 
 ## Instalación y uso
 
@@ -66,6 +66,7 @@ Licencia
 Este proyecto está bajo la licencia MIT.
 Puedes usarlo y modificarlo libremente, siempre dando el crédito correspondiente.
 
-Autor: Sindy Campillo Buiytrago
+Autor: Sindy Campillo Buitrago
+
 Fecha: Agosto 2025
 
